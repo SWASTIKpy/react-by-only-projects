@@ -1,1 +1,3 @@
+/* App-specific styles (Tailwind imported via index.css) */
+/* Add component-specific rules here if needed */
 @import "tailwindcss";
